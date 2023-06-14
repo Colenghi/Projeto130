@@ -1,0 +1,70 @@
+  body
+  {
+    text-align: center;
+  }
+
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+
+  .headingDiv
+  {
+    float: none ; 
+    background: white ; 
+    padding: 10px; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+
+  .resultToTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .resultToTag span
+  {
+    white-space: pre-line;
+  }
+
+  .copyRightFooter
+  {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    height: 34px;
+    background-color: grey;
+    line-height: 3;
+    text-align: right;
+    font-family: 'Finger Paint', cursive;
+    
+  }
+  h3
+  {
+    font-family: 'Parisienne', cursive;
+  }
+  #DivHeading, #DivHeading2{
+    font-family: 'Hi Melody', cursive;
+    font-size: 24px;
+    
+  }
+  #P-result, #P-result2
+  {
+    font-family: 'Molle', cursive;
+    z-index:10;
+  }
+  canvas{
+    z-index: 9;
+    
+  }
